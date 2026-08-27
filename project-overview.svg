@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560" role="img">
+<rect width="1000" height="560" rx="18" fill="#f8fafc"/>
+<text x="55" y="58" font-family="Arial,sans-serif" font-size="27" font-weight="700" fill="#0f172a">Scenario Planning: Revenue and EBITDA</text>
+<text x="55" y="88" font-family="Arial,sans-serif" font-size="15" fill="#5b6575">Base, downside, and upside planning cases</text>
+<line x1="70" y1="455" x2="940" y2="455" stroke="#dbe3ec"/><text x="60" y="460" text-anchor="end" font-family="Arial,sans-serif" font-size="12" fill="#5b6575">$0K</text>
+<line x1="70" y1="380.0" x2="940" y2="380.0" stroke="#dbe3ec"/><text x="60" y="385.0" text-anchor="end" font-family="Arial,sans-serif" font-size="12" fill="#5b6575">$1.74M</text>
+<line x1="70" y1="305.0" x2="940" y2="305.0" stroke="#dbe3ec"/><text x="60" y="310.0" text-anchor="end" font-family="Arial,sans-serif" font-size="12" fill="#5b6575">$3.47M</text>
+<line x1="70" y1="230.0" x2="940" y2="230.0" stroke="#dbe3ec"/><text x="60" y="235.0" text-anchor="end" font-family="Arial,sans-serif" font-size="12" fill="#5b6575">$5.21M</text>
+<line x1="70" y1="155" x2="940" y2="155" stroke="#dbe3ec"/><text x="60" y="160" text-anchor="end" font-family="Arial,sans-serif" font-size="12" fill="#5b6575">$6.95M</text>
+<rect x="90.0" y="179.94553376906316" width="74.66666666666669" height="275.05446623093684" rx="4" fill="#0f766e"/>
+<rect x="170.66666666666669" y="405.2451430581615" width="74.66666666666669" height="49.75485694183853" rx="4" fill="#2563eb"/>
+<text x="164.66666666666669" y="480" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#172033">Base</text>
+<rect x="356.6666666666667" y="206.9607843137255" width="74.66666666666669" height="248.0392156862745" rx="4" fill="#0f766e"/>
+<rect x="437.33333333333337" y="421.2155260490373" width="74.66666666666669" height="33.78447395096269" rx="4" fill="#2563eb"/>
+<text x="431.33333333333337" y="480" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#172033">Downside</text>
+<rect x="623.3333333333334" y="155.0" width="74.66666666666669" height="300.0" rx="4" fill="#0f766e"/>
+<rect x="704.0" y="389.6676284366556" width="74.66666666666669" height="65.33237156334438" rx="4" fill="#2563eb"/>
+<text x="698.0" y="480" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#172033">Upside</text>
+<rect x="720" y="45" width="12" height="12" fill="#0f766e"/><text x="739" y="56" font-family="Arial,sans-serif" font-size="13" fill="#172033">Revenue</text>
+<rect x="820" y="45" width="12" height="12" fill="#2563eb"/><text x="839" y="56" font-family="Arial,sans-serif" font-size="13" fill="#172033">EBITDA</text>
+<text x="945" y="535" text-anchor="end" font-family="Arial,sans-serif" font-size="12" fill="#5b6575">Synthetic portfolio data • Meghna Sarmah</text>
+</svg>
